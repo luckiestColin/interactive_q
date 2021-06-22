@@ -1,0 +1,24 @@
+{
+  "profile_colors": [
+    {
+      "ordinal": 0,
+      "argb_value": 4294902015,
+      "name": "Yellow"
+    },
+    {
+      "ordinal": 1,
+      "argb_value": 4278190335,
+      "name": "Red"
+    },
+    {
+      "ordinal": 2,
+      "argb_value": 65535,
+      "name": "Blue"
+    },
+    {
+      "ordinal": 3,
+      "argb_value": 2147516671,
+      "name": "Purple"
+    }
+  ]
+}

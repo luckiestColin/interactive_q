@@ -1,0 +1,182 @@
+{
+  "sections": [
+    {
+      "header": "Appearance",
+      "flow_items": [
+        {
+          "item_id": 0,
+          "heading": "What is your hair color?",
+          "answers": [
+            {
+              "text": "Blond",
+              "value": 0
+            },
+            {
+              "text": "Brown",
+              "value": 1
+            },
+            {
+              "text": "Red",
+              "value": 2
+            },
+            {
+              "text": "Beautiful bald",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "item_id": 1,
+          "heading": "What is your eye color?",
+          "last_answer": 2,
+          "answers": [
+            {
+              "text": "Brown",
+              "value": 0
+            },
+            {
+              "text": "Blue",
+              "value": 1
+            },
+            {
+              "text": "Green",
+              "value": 2
+            },
+            {
+              "text": "Chimerea",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "item_id": 2,
+          "heading": "What is your skin tone?",
+          "answers": [
+            {
+              "text": "Dark",
+              "value": 0
+            },
+            {
+              "text": "Medium",
+              "value": 1
+            },
+            {
+              "text": "Light",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "item_id": 3,
+          "heading": "What an attractive combination!"
+        }
+      ]
+    },
+    {
+      "header": "Personality",
+      "flow_items": [
+        {
+          "item_id": 4,
+          "heading": "What is the airspeed velocity of a laden swallow?",
+          "answers": [
+            {
+              "text": "African or European",
+              "value": 0
+            },
+            {
+              "text": "What? I don't know that",
+              "value": 1
+            },
+            {
+              "text": "Well, the acceleration would be 9.8m/s^2, but the velocity depends on how long it's been falling?",
+              "value": 2
+            },
+            {
+              "text": "Laden with what?",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "item_id": 5,
+          "heading": "What is the best kissing scene in the history of kissing scenes?",
+          "answers": [
+            {
+              "text": "The kiss at the end of 'The Princess Bride' of course.",
+              "value": 0
+            },
+            {
+              "text": "The kiss from 'When Harry Met Sally'.",
+              "value": 1
+            },
+            {
+              "text": "Trick question, none of them are good.",
+              "value": 2
+            },
+            {
+              "text": "The one from my wedding?",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "item_id": 6,
+          "heading": "Sounds like we would get along great!"
+        }
+      ]
+    },
+    {
+      "header": "Rapid fire",
+      "flow_items": [
+        {
+          "item_id": 7,
+          "heading": "What is your favorite color?",
+          "answers": [
+            {
+              "text": "Blue, No Green!",
+              "value": 0
+            },
+            {
+              "text": "Red",
+              "value": 1
+            },
+            {
+              "text": "Purple",
+              "value": 2
+            },
+            {
+              "text": "Chartreuse, because it's fun to say.",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "item_id": 8,
+          "heading": "What color do you feel like you get the most complements while wearing?",
+          "answers": [
+            {
+              "text": "Purple",
+              "value": 0
+            },
+            {
+              "text": "Anything but Red",
+              "value": 1
+            },
+            {
+              "text": "Blue",
+              "value": 2
+            },
+            {
+              "text": "Green",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "item_id": 9,
+          "heading": "Thanks, calculating."
+        }
+      ]
+    }
+  ]
+}
